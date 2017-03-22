@@ -1,0 +1,18 @@
+{
+    "main": "https://devdocs.io",
+    "name": "DevDocs Mac",
+    "description": "",
+    "version": "0.0.1",
+    "plugins" : {},
+    "window" : {
+        "title" : "DevDocs Mac",
+        "width" : 900,
+        "height" : 600,
+        "position": "center",
+        "min_width": 900,
+        "min_height": 600,
+        "opaque": 0,
+        "alpha": 1
+    }
+  
+}
