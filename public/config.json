@@ -10,9 +10,7 @@
         "height" : 600,
         "position": "center",
         "min_width": 900,
-        "min_height": 600,
-        "opaque": 0,
-        "alpha": 1
+        "min_height": 600
     }
   
 }
