@@ -1,8 +1,8 @@
 {
     "main": "https://devdocs.io",
     "name": "DevDocs Mac",
-    "description": "",
-    "version": "0.0.1",
+    "description": "An unofficial DevDocs app for macOS",
+    "version": "0.0.3",
     "plugins" : {},
     "window" : {
         "title" : "DevDocs Mac",
