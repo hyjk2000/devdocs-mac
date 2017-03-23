@@ -6,8 +6,6 @@
     "plugins" : {},
     "window" : {
         "title" : "DevDocs Mac",
-        "width" : 900,
-        "height" : 600,
         "position": "center",
         "min_width": 900,
         "min_height": 600
