@@ -4,7 +4,7 @@
 
 An unofficial [DevDocs](https://devdocs.io) app for macOS made with [MacGap2](https://github.com/MacGapProject/MacGap2)
 
-[Download latest release](https://github.com/hyjk2000/devdocs-mac/releases) ![Github All Releases](https://img.shields.io/github/downloads/hyjk2000/devdocs-mac/total.svg)
+[Download latest release](https://github.com/hyjk2000/devdocs-mac/releases) (<1MB) ![Github All Releases](https://img.shields.io/github/downloads/hyjk2000/devdocs-mac/total.svg)
 
 [DevDocs](https://github.com/Thibaut/devdocs) created by Thibaut Courouble
 
