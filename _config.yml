@@ -1,4 +1,5 @@
 title: DevDocs Mac
+logo: /MacGap/Images.xcassets/AppIcon.appiconset/DevDocs-Mac_1024.png
 show_downloads: true
-theme: jekyll-theme-tactile
 google_analytics: UA-57240651-1
+theme: jekyll-theme-minimal
