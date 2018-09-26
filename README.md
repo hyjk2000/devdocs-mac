@@ -1,4 +1,5 @@
-<img width="1012" alt="screenshot" src="https://cloud.githubusercontent.com/assets/4647136/24205826/78a32a4c-0f57-11e7-9bb7-d301de74351d.png">
+<img width="1105" alt="screenshot-dark" src="https://user-images.githubusercontent.com/4647136/46058177-427ef980-c18c-11e8-9e14-48c3c8f9f329.png">
+<img width="1105" alt="screenshot-light" src="https://user-images.githubusercontent.com/4647136/46058178-427ef980-c18c-11e8-9c66-039e6dd6681e.png">
 
 # DevDocs Mac
 
